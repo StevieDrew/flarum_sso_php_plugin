@@ -14,7 +14,7 @@
 		"ext-json": "*",
 		"ext-curl": "*",
 		"delight-im/cookie": "^3",
-		"flagrow/flarum-api-client": "0.2.x-dev"
+		"flagrow/flarum-api-client": "dev-updgrade_illuminate"
 	},
 	"autoload": {
 		"psr-4": {
@@ -24,7 +24,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/maicol07/flarum-api-client"
+			"url": "https://github.com/Scumi/flarum-api-client"
 		}
 	]
 }

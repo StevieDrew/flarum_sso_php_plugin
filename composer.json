@@ -14,7 +14,7 @@
 		"ext-json": "*",
 		"ext-curl": "*",
 		"delight-im/cookie": "^3",
-		"flagrow/flarum-api-client": "dev-updgrade_illuminate"
+		"flagrow/flarum-api-client": "dev-upgrade_illuminate"
 	},
 	"autoload": {
 		"psr-4": {
